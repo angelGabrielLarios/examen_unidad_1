@@ -216,7 +216,7 @@ INSERT INTO editoriales
 VALUES ('UTSH');
 
 
-
+SELECT 
 
 /* 
 4) - Listar que profesores hacen uso del Aula 1.A01 
